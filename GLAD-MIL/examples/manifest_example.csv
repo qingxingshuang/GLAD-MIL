@@ -1,0 +1,7 @@
+slide_id,split,label,feature_path
+slide_001,train,0,data/features/slide_001.pt
+slide_002,train,1,data/features/slide_002.pt
+slide_003,val,0,data/features/slide_003.pt
+slide_004,val,1,data/features/slide_004.pt
+slide_005,test,0,data/features/slide_005.pt
+slide_006,test,1,data/features/slide_006.pt
